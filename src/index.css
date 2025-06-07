@@ -4,13 +4,13 @@
 }
 
 .bg-image{
-    background: url(./image/bg.png);
+    background: url(/image/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg-image-herotwo{
-    background: url(./image/bg2.png);
+    background: url(/image/bg2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
